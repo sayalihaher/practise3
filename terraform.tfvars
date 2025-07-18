@@ -1,0 +1,6 @@
+rg_location = "East US"
+rg_name = "modulerrsg007"
+vnetname = "example"
+addr = "10.0.0.0/16"
+addrsub = "10.0.1.0/24"
+subname = "subnetsay"
